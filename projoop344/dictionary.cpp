@@ -1,24 +1,11 @@
-/*
-Name: Rakshith Singh
-Email: rsrakshith-singh@myseneca.ca
-Student ID: 131037244
-Date: 1/29/26
-
-I declare that this submission is the result of my own work and I only copied the code
-that my professor provided to complete my assignments. This submitted piece of work
-has not been shared with any other student or 3rd party content provider.
-*/
-
 #include "dictionary.h"
 #include "settings.h"
 
 #include <fstream>
-#include <iomanip>
 #include <iostream>
+#include <string>
 
 namespace seneca {
-
-    // helpers 
 
     static std::string trim(const std::string& s) {
         size_t b = 0;
@@ -37,7 +24,6 @@ namespace seneca {
         return s;
     }
 
-    // Parse 3 CSV fields, handling quotes.
     static bool parseCSV3(const std::string& line, std::string& f1, std::string& f2, std::string& f3) {
         f1.clear(); f2.clear(); f3.clear();
 
@@ -46,11 +32,11 @@ namespace seneca {
         bool inQuotes = false;
 
         for (size_t i = 0; i < line.size(); ++i) {
-            char c = line[i];
+            const char c = line[i];
 
             if (c == '"') {
                 inQuotes = !inQuotes;
-                fields[fi] += c; // keep quotes; we'll strip later where needed
+                fields[fi] += c;
             }
             else if (c == ',' && !inQuotes) {
                 ++fi;
@@ -98,20 +84,20 @@ namespace seneca {
         }
     }
 
-    // --Dictionary implementation -----
-
     Dictionary::Dictionary(const char* filename) {
-        if (!filename || !filename[0]) return;
-
-        std::ifstream fin(filename);
-        if (!fin) {
-            
+        if (!filename || !filename[0]) {
             m_words = nullptr;
             m_size = 0;
             return;
         }
 
-        //record counting
+        std::ifstream fin(filename);
+        if (!fin) {
+            m_words = nullptr;
+            m_size = 0;
+            return;
+        }
+
         std::string line;
         size_t count = 0;
         while (std::getline(fin, line)) {
@@ -125,11 +111,9 @@ namespace seneca {
             return;
         }
 
-        // allocate exact memory
         m_words = new Word[count];
         m_size = count;
 
-        // reload & parse
         fin.clear();
         fin.seekg(0);
 
@@ -140,25 +124,16 @@ namespace seneca {
 
             std::string w, pos, def;
             if (!parseCSV3(line, w, pos, def)) {
-                //store as unknown and keep going
-                m_words[idx].m_word = w;
-                m_words[idx].m_definition = "";
-                m_words[idx].m_pos = PartOfSpeech::Unknown;
-                ++idx;
                 continue;
             }
 
-            m_words[idx].m_word = unquote(w);
+            m_words[idx].m_word = unquote(trim(w));
             m_words[idx].m_pos = mapPOS(pos);
-
-            def = trim(def);
-            def = unquote(def);
-            m_words[idx].m_definition = def;
+            m_words[idx].m_definition = trim(def);
 
             ++idx;
         }
 
-        //  shrink to idx.
         if (idx < m_size) {
             Word* smaller = (idx > 0) ? new Word[idx] : nullptr;
             for (size_t i = 0; i < idx; ++i) smaller[i] = m_words[i];
@@ -175,6 +150,9 @@ namespace seneca {
     }
 
     Dictionary::Dictionary(const Dictionary& other) {
+        m_words = nullptr;
+        m_size = 0;
+
         if (other.m_size == 0 || !other.m_words) return;
 
         m_size = other.m_size;
@@ -202,6 +180,8 @@ namespace seneca {
     }
 
     Dictionary::Dictionary(Dictionary&& other) noexcept {
+        m_words = nullptr;
+        m_size = 0;
         *this = std::move(other);
     }
 
@@ -223,29 +203,31 @@ namespace seneca {
 
         bool foundAny = false;
         const std::string target(word);
+        const std::string indent(target.size(), ' ');
 
         for (size_t i = 0; i < m_size; ++i) {
             if (m_words[i].m_word == target) {
-                const bool showPos = g_settings.m_verbose && m_words[i].m_pos != PartOfSpeech::Unknown;
+
+                const bool showPos =
+                    g_settings.m_verbose &&
+                    m_words[i].m_pos != PartOfSpeech::Unknown;
 
                 if (!foundAny) {
                     std::cout << target << " - ";
                 }
                 else {
-                    std::cout << std::string(target.size(), ' ') << " - ";
+                    std::cout << indent << " - ";
                 }
 
                 if (showPos) {
-                    std::cout << '(' << posToText(m_words[i].m_pos) << ") ";
+                    std::cout << "(" << posToText(m_words[i].m_pos) << ") ";
                 }
 
                 std::cout << m_words[i].m_definition << '\n';
 
                 foundAny = true;
 
-                if (!g_settings.m_show_all) {
-                    return;
-                }
+                if (!g_settings.m_show_all) return;
             }
         }
 
