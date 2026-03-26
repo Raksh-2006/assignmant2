@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:guild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:guild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:timeMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -57,18 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\rogue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:rogue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:guild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|solutionrelative:event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBC0EEC-AA2A-4005-9FF1-5BA63123EC5F}|projoop344.vcxproj|C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\timeMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -94,103 +102,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dictionary.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\dictionary.h",
-              "RelativeDocumentMoniker": "dictionary.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\dictionary.h",
-              "RelativeToolTip": "dictionary.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:23:25.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "logger.cpp",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.cpp",
-              "RelativeDocumentMoniker": "logger.cpp",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.cpp",
-              "RelativeToolTip": "logger.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "team.cpp",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.cpp",
+              "RelativeDocumentMoniker": "team.cpp",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.cpp",
+              "RelativeToolTip": "team.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T04:30:09.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "guild.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h",
-              "RelativeDocumentMoniker": "guild.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h",
-              "RelativeToolTip": "guild.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T03:42:21.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "event.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h",
-              "RelativeDocumentMoniker": "event.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h",
-              "RelativeToolTip": "event.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:23:34.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "rogue.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\rogue.h",
-              "RelativeDocumentMoniker": "rogue.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\rogue.h",
-              "RelativeToolTip": "rogue.h",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwE8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:24:16.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "logger.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.h",
-              "RelativeDocumentMoniker": "logger.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.h",
-              "RelativeToolTip": "logger.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:24:14.211Z"
+              "WhenOpened": "2026-02-11T21:37:23.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "settings.cpp",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.cpp",
-              "RelativeDocumentMoniker": "settings.cpp",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.cpp",
-              "RelativeToolTip": "settings.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "guild.cpp",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.cpp",
+              "RelativeDocumentMoniker": "guild.cpp",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.cpp",
+              "RelativeToolTip": "guild.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T04:30:12.584Z"
+              "WhenOpened": "2026-02-11T21:29:55.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "health.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h",
+              "RelativeDocumentMoniker": "health.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h",
+              "RelativeToolTip": "health.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:24:09.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "tester_1.cpp",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\tester_1.cpp",
-              "RelativeDocumentMoniker": "tester_1.cpp",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\tester_1.cpp",
-              "RelativeToolTip": "tester_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T04:26:51.221Z"
+              "Title": "team.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h",
+              "RelativeDocumentMoniker": "team.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h",
+              "RelativeToolTip": "team.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T06:40:18.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,7 +171,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "guild.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h",
+              "RelativeDocumentMoniker": "guild.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\guild.h",
+              "RelativeToolTip": "guild.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T03:42:21.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dictionary.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\dictionary.h",
+              "RelativeDocumentMoniker": "dictionary.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\dictionary.h",
+              "RelativeToolTip": "dictionary.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:23:25.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "abilities.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h",
+              "RelativeDocumentMoniker": "abilities.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h",
+              "RelativeToolTip": "abilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:20:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "event.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h",
+              "RelativeDocumentMoniker": "event.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.h",
+              "RelativeToolTip": "event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:23:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "rogue.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\rogue.h",
+              "RelativeDocumentMoniker": "rogue.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\rogue.h",
+              "RelativeToolTip": "rogue.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwE8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:24:16.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "logger.h",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.h",
+              "RelativeDocumentMoniker": "logger.h",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.h",
+              "RelativeToolTip": "logger.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-11T04:24:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "settings.cpp",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.cpp",
+              "RelativeDocumentMoniker": "settings.cpp",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.cpp",
+              "RelativeToolTip": "settings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T04:30:12.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tester_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\tester_1.cpp",
+              "RelativeDocumentMoniker": "tester_1.cpp",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\tester_1.cpp",
+              "RelativeToolTip": "tester_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T04:26:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "barbarian.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\barbarian.h",
               "RelativeDocumentMoniker": "barbarian.h",
@@ -219,20 +280,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "abilities.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h",
-              "RelativeDocumentMoniker": "abilities.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\abilities.h",
-              "RelativeToolTip": "abilities.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:20:24.681Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "logger.cpp",
+              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.cpp",
+              "RelativeDocumentMoniker": "logger.cpp",
+              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\logger.cpp",
+              "RelativeToolTip": "logger.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T04:30:09.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "english_small.csv",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\english_small.csv",
               "RelativeDocumentMoniker": "english_small.csv",
@@ -245,30 +305,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "health.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h",
-              "RelativeDocumentMoniker": "health.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\health.h",
-              "RelativeToolTip": "health.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T04:24:09.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "team.h",
-              "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h",
-              "RelativeDocumentMoniker": "team.h",
-              "ToolTip": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\team.h",
-              "RelativeToolTip": "team.h",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-11T06:40:18.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "event.cpp",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\event.cpp",
               "RelativeDocumentMoniker": "event.cpp",
@@ -280,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "timeMonitor.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\timeMonitor.h",
               "RelativeDocumentMoniker": "timeMonitor.h",
@@ -292,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "settings.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\settings.h",
               "RelativeDocumentMoniker": "settings.h",
@@ -304,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "timeMonitor.cpp",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\timeMonitor.cpp",
               "RelativeDocumentMoniker": "timeMonitor.cpp",
@@ -316,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "characterTpl.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\characterTpl.h",
               "RelativeDocumentMoniker": "characterTpl.h",
@@ -328,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "character.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\character.h",
               "RelativeDocumentMoniker": "character.h",
@@ -340,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "archer.h",
               "DocumentMoniker": "C:\\Users\\Raksh\\assignment2\\assignmant2\\projoop344\\archer.h",
               "RelativeDocumentMoniker": "archer.h",
